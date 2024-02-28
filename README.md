@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/format:webp/0*JgJGHBhL8gkjYk_3.jpg)
+![MasterHead](https://miro.medium.com/v2/resize:fit:1400/format:webp/0*JgJGHBhL8gkjYk_3.jpg)
 
 <h1 align="center">Hi 👋, I'm Elmas Yalcinkaya</h1>
 <h3 align="center">Data Analyst & Data Scientist</h3>
